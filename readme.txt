@@ -1,4 +1,5 @@
 1. Experimental environment:
+	jupyter notebook
 	pycharm
 	keras 2.2.4
 	tensorflow 1.13.1
