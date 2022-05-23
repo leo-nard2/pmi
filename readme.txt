@@ -21,7 +21,7 @@
 		③The 1d2d structure and chemical fingerprint of the metabolites were calculated by PaDEL-Descriptor as the features of metabolites. (2325 dimensional feature)
 		④ Obtain protein-protein interaction from String database and construct PPI network. The adjacency matrix of PPI network is the feature of all proteins. (6354 dimensional feature )
 		⑤ Combine features of metabolites and proteins to obtain the features of PMIs (14120 * 8679)
-		(this data link is: https://pan.baidu.com/s/1DRTwANVW3VQiGjUfRU8SyA , extraction code: e614)
+		(this data link is: https://pan.baidu.com/s/11ZGE0kvJNx5zXNrGb57T2A, extraction code: mabi)
 		⑥ PCA was implemented to reduce the dimension of PMI features. Finally, 99% of the information is retained and the dimension of new feature is 14120 * 3390 (see the code: PCA.py ).
 	3.3 comparison experiment
 		Identification of PMIs:
